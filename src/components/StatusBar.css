@@ -1,0 +1,21 @@
+.status-bar {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.status-bar-desc {
+  font-size: large;
+  font-weight: 600;
+  color: cyan;
+  display: flex;
+  width: 35rem;
+  justify-content: space-between;
+}
+
+progress {
+  /* background: #000; */
+  width: 35rem;
+}

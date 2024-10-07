@@ -1,0 +1,36 @@
+.start-page {
+  /* background: yellow; */
+  text-align: center;
+}
+
+.h2 {
+  font-size: 2rem;
+  color: white;
+  background: blueviolet;
+  padding: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: orange;
+  text-decoration: underline;
+}
+
+button {
+  font-size: 2rem;
+  border-radius: 50%;
+  padding: 1rem;
+  border: solid 2px orangered;
+}
+
+button:hover {
+  background: #000;
+  color: white;
+  cursor: pointer;
+}
+
+button:active {
+  background: red;
+  border: solid 2px black;
+  color: black;
+}
